@@ -1,5 +1,6 @@
 # Aim:
-To measure energy using single phase energy meter
+To measure energy using Single Phase Energy Meter
+
 ## Procedure:
 Step 1: Make Connections as per the instructions given below:
 
@@ -46,16 +47,11 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 <img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
 
 ## Output Waveform
+<img width="955" height="690" alt="image" src="https://github.com/user-attachments/assets/4a093edc-251f-4bca-9c13-cfd1ee5c365f" />
 
-<img width="1180" height="630" alt="Screenshot 2025-09-23 153506" src="https://github.com/user-attachments/assets/ea899867-1348-4dca-b8da-f2aca29fd876" />
+
 
 
 
 ## Result
-
 Thus the energy has been measured using single phase energy meter
-
-
-
-
-
